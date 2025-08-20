@@ -1,0 +1,20 @@
+html, body{
+  background-color: #00b3ff;
+  font-family:sans-serif;
+  font-size: 10px;
+  color: black;
+}
+
+h1{
+  font-size: 14px;
+  font-weight: bold;
+  color: darkblue
+}
+
+.login{
+  background-color: #a5d4e3;
+}
+
+.signup{
+   background-color: #5df48a;
+}
